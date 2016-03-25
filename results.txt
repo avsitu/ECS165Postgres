@@ -1,0 +1,227 @@
+3a)
+Percent of Individuals Travelling LESS THAN 5 MILES: 12.617587 PERCENT
+Percent of Individuals Travelling LESS THAN 10 MILES: 23.204042 PERCENT
+Percent of Individuals Travelling LESS THAN 15 MILES: 35.348594 PERCENT
+Percent of Individuals Travelling LESS THAN 20 MILES: 43.882417 PERCENT
+Percent of Individuals Travelling LESS THAN 25 MILES: 52.981808 PERCENT
+Percent of Individuals Travelling LESS THAN 30 MILES: 58.969230 PERCENT
+Percent of Individuals Travelling LESS THAN 35 MILES: 65.301060 PERCENT
+Percent of Individuals Travelling LESS THAN 40 MILES: 69.560677 PERCENT
+Percent of Individuals Travelling LESS THAN 45 MILES: 73.990002 PERCENT
+Percent of Individuals Travelling LESS THAN 50 MILES: 76.911529 PERCENT
+Percent of Individuals Travelling LESS THAN 55 MILES: 80.069573 PERCENT
+Percent of Individuals Travelling LESS THAN 60 MILES: 82.094177 PERCENT
+Percent of Individuals Travelling LESS THAN 65 MILES: 84.389086 PERCENT
+Percent of Individuals Travelling LESS THAN 70 MILES: 85.879607 PERCENT
+Percent of Individuals Travelling LESS THAN 75 MILES: 87.449606 PERCENT
+Percent of Individuals Travelling LESS THAN 80 MILES: 88.575751 PERCENT
+Percent of Individuals Travelling LESS THAN 85 MILES: 89.736452 PERCENT
+Percent of Individuals Travelling LESS THAN 90 MILES: 90.569638 PERCENT
+Percent of Individuals Travelling LESS THAN 95 MILES: 91.452355 PERCENT
+Percent of Individuals Travelling LESS THAN 100 MILES: 92.050943 PERCENT
+
+3b)
+Average Fuel Economy of Trips LESS THAN 5 MILES: 26.400971 MPG
+Average Fuel Economy of Trips LESS THAN 10 MILES: 26.354494 MPG
+Average Fuel Economy of Trips LESS THAN 15 MILES: 26.344471 MPG
+Average Fuel Economy of Trips LESS THAN 20 MILES: 26.344534 MPG
+Average Fuel Economy of Trips LESS THAN 25 MILES: 26.347239 MPG
+Average Fuel Economy of Trips LESS THAN 30 MILES: 26.356066 MPG
+Average Fuel Economy of Trips LESS THAN 35 MILES: 26.359167 MPG
+Average Fuel Economy of Trips LESS THAN 40 MILES: 26.364100 MPG
+Average Fuel Economy of Trips LESS THAN 45 MILES: 26.366894 MPG
+Average Fuel Economy of Trips LESS THAN 50 MILES: 26.368416 MPG
+Average Fuel Economy of Trips LESS THAN 55 MILES: 26.369227 MPG
+Average Fuel Economy of Trips LESS THAN 60 MILES: 26.370522 MPG
+Average Fuel Economy of Trips LESS THAN 65 MILES: 26.371170 MPG
+Average Fuel Economy of Trips LESS THAN 70 MILES: 26.370620 MPG
+Average Fuel Economy of Trips LESS THAN 75 MILES: 26.370947 MPG
+Average Fuel Economy of Trips LESS THAN 80 MILES: 26.370697 MPG
+Average Fuel Economy of Trips LESS THAN 85 MILES: 26.370512 MPG
+Average Fuel Economy of Trips LESS THAN 90 MILES: 26.370219 MPG
+Average Fuel Economy of Trips LESS THAN 95 MILES: 26.369653 MPG
+Average Fuel Economy of Trips LESS THAN 100 MILES: 26.369861 MPG
+
+3c)
+Percent of Tranportation Emissions by Households in MONTH 200803: 38.919400 PERCENT
+Percent of Tranportation Emissions by Households in MONTH 200804: 43.104683 PERCENT
+Percent of Tranportation Emissions by Households in MONTH 200805: 41.884330 PERCENT
+Percent of Tranportation Emissions by Households in MONTH 200806: 42.473064 PERCENT
+Percent of Tranportation Emissions by Households in MONTH 200807: 44.261361 PERCENT
+Percent of Tranportation Emissions by Households in MONTH 200808: 44.302049 PERCENT
+Percent of Tranportation Emissions by Households in MONTH 200809: 44.500662 PERCENT
+Percent of Tranportation Emissions by Households in MONTH 200810: 42.598335 PERCENT
+Percent of Tranportation Emissions by Households in MONTH 200811: 43.975585 PERCENT
+Percent of Tranportation Emissions by Households in MONTH 200812: 44.427532 PERCENT
+Percent of Tranportation Emissions by Households in MONTH 200901: 44.701877 PERCENT
+Percent of Tranportation Emissions by Households in MONTH 200902: 45.566021 PERCENT
+Percent of Tranportation Emissions by Households in MONTH 200903: 45.975592 PERCENT
+Percent of Tranportation Emissions by Households in MONTH 200904: 47.431818 PERCENT
+
+3d)
+Reduction in CO2 Emission For 20 Electric Miles in MONTH 200803: 7997328.28468 TONS
+Reduction in CO2 Emission For 20 Electric Miles in MONTH 200804: 8586963.5894 TONS
+Reduction in CO2 Emission For 20 Electric Miles in MONTH 200805: 8861247.01265 TONS
+Reduction in CO2 Emission For 20 Electric Miles in MONTH 200806: 8428549.28957 TONS
+Reduction in CO2 Emission For 20 Electric Miles in MONTH 200807: 8199168.98033 TONS
+Reduction in CO2 Emission For 20 Electric Miles in MONTH 200808: 8145629.76557 TONS
+Reduction in CO2 Emission For 20 Electric Miles in MONTH 200809: 7643952.33243 TONS
+Reduction in CO2 Emission For 20 Electric Miles in MONTH 200810: 8280991.20326 TONS
+Reduction in CO2 Emission For 20 Electric Miles in MONTH 200811: 7631783.8965 TONS
+Reduction in CO2 Emission For 20 Electric Miles in MONTH 200812: 8319710.43494 TONS
+Reduction in CO2 Emission For 20 Electric Miles in MONTH 200901: 8656380.63046 TONS
+Reduction in CO2 Emission For 20 Electric Miles in MONTH 200902: 8426174.26861 TONS
+Reduction in CO2 Emission For 20 Electric Miles in MONTH 200903: 10051379.5404 TONS
+Reduction in CO2 Emission For 20 Electric Miles in MONTH 200904: 9939261.74015 TONS
+Reudction in CO2 Emission Over Surveyed Months For 20 Electric Miles: 119168520.969 TONS
+
+Reduction in CO2 Emission For 40 Electric Miles in MONTH 200803: 12035478.104 TONS
+Reduction in CO2 Emission For 40 Electric Miles in MONTH 200804: 13017589.4307 TONS
+Reduction in CO2 Emission For 40 Electric Miles in MONTH 200805: 13450022.7167 TONS
+Reduction in CO2 Emission For 40 Electric Miles in MONTH 200806: 12739261.7032 TONS
+Reduction in CO2 Emission For 40 Electric Miles in MONTH 200807: 12501920.1865 TONS
+Reduction in CO2 Emission For 40 Electric Miles in MONTH 200808: 12449870.0918 TONS
+Reduction in CO2 Emission For 40 Electric Miles in MONTH 200809: 11559724.7201 TONS
+Reduction in CO2 Emission For 40 Electric Miles in MONTH 200810: 12556735.5844 TONS
+Reduction in CO2 Emission For 40 Electric Miles in MONTH 200811: 11600859.9737 TONS
+Reduction in CO2 Emission For 40 Electric Miles in MONTH 200812: 12668271.3791 TONS
+Reduction in CO2 Emission For 40 Electric Miles in MONTH 200901: 13067551.6096 TONS
+Reduction in CO2 Emission For 40 Electric Miles in MONTH 200902: 12745367.4966 TONS
+Reduction in CO2 Emission For 40 Electric Miles in MONTH 200903: 15277286.7204 TONS
+Reduction in CO2 Emission For 40 Electric Miles in MONTH 200904: 15276471.9079 TONS
+Reudction in CO2 Emission Over Surveyed Months For 40 Electric Miles: 180946411.625 TONS
+
+Reduction in CO2 Emission For 60 Electric Miles in MONTH 200803: 14109225.5257 TONS
+Reduction in CO2 Emission For 60 Electric Miles in MONTH 200804: 15351986.1397 TONS
+Reduction in CO2 Emission For 60 Electric Miles in MONTH 200805: 15915038.1398 TONS
+Reduction in CO2 Emission For 60 Electric Miles in MONTH 200806: 15065202.2974 TONS
+Reduction in CO2 Emission For 60 Electric Miles in MONTH 200807: 14853456.8135 TONS
+Reduction in CO2 Emission For 60 Electric Miles in MONTH 200808: 14777783.9937 TONS
+Reduction in CO2 Emission For 60 Electric Miles in MONTH 200809: 13586083.2484 TONS
+Reduction in CO2 Emission For 60 Electric Miles in MONTH 200810: 14770551.8334 TONS
+Reduction in CO2 Emission For 60 Electric Miles in MONTH 200811: 13698816.1202 TONS
+Reduction in CO2 Emission For 60 Electric Miles in MONTH 200812: 14985721.821 TONS
+Reduction in CO2 Emission For 60 Electric Miles in MONTH 200901: 15362587.2501 TONS
+Reduction in CO2 Emission For 60 Electric Miles in MONTH 200902: 15032830.3167 TONS
+Reduction in CO2 Emission For 60 Electric Miles in MONTH 200903: 18013916.5713 TONS
+Reduction in CO2 Emission For 60 Electric Miles in MONTH 200904: 18193033.902 TONS
+Reudction in CO2 Emission Over Surveyed Months For 60 Electric Miles: 213716233.973 TONS
+
+5a)
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 200803: 11808801.3937 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 200804: 12981204.6944 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 200805: 13269243.8942 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 200806: 12547663.5143 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 200807: 12251110.3181 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 200808: 12284259.4968 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 200809: 11650712.95 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 200810: 12602332.7954 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 200811: 11515769.5597 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 200812: 12744903.6228 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 200901: 13055284.6936 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 200902: 12821061.1978 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 200903: 15138471.2232 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 200904: 15081664.4895 TONS
+Reduction in CO2 Emission Over Surveyed Months for 84 Electric Miles: 179752483.843 TONS
+
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 200803: 13931586.1027 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 200804: 14584047.7188 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 200805: 15010497.7536 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 200806: 14244341.6658 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 200807: 13915704.9759 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 200808: 13828741.0195 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 200809: 13061083.7565 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 200810: 14074335.6079 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 200811: 12914158.105 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 200812: 14374627.7155 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 200901: 14655806.8856 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 200902: 14477558.6416 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 200903: 17019025.2843 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 200904: 17024402.7889 TONS
+Reduction in CO2 Emission Over Surveyed Months for 107 Electric Miles: 203115918.022 TONS
+
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 200803: 15962939.7657 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 200804: 17617303.6778 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 200805: 18465556.1247 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 200806: 17329604.4696 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 200807: 17044087.4618 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 200808: 17115640.8964 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 200809: 15423259.4439 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 200810: 16879868.3285 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 200811: 15738648.0809 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 200812: 17205842.3134 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 200901: 17650902.3131 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 200902: 17244524.6262 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 200903: 20693170.9442 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 200904: 21164436.8701 TONS
+Reduction in CO2 Emission Over Surveyed Months for 208 Electric Miles: 245535785.316 TONS
+
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 200803: 17535408.1358 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 200804: 18562950.5421 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 200805: 19320735.809 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 200806: 18234151.0975 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 200807: 17882157.5511 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 200808: 18043170.485 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 200809: 16197045.6319 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 200810: 17734123.2036 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 200811: 16622307.476 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 200812: 17968193.9027 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 200901: 18472737.6455 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 200902: 17938189.2905 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 200903: 21778362.2367 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 200904: 22376902.0725 TONS
+Reduction in CO2 Emission Over Surveyed Months for 270 Electric Miles: 258666435.08 TONS
+
+5b)
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 201401: 36217945.7115 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 201402: 33705017.4079 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 201403: 37033220.5419 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 201404: 38038546.432 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 201405: 35444459.8489 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 201406: 33954531.9653 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 201407: 34667556.3429 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 201408: 34664049.337 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 201409: 33827296.2478 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 201410: 35728724.5074 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 201411: 34749352.2934 TONS
+Reduction in CO2 Emission for 84 Electric Miles in MONTH 201412: 37271924.7148 TONS
+
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 201401: 39958484.0838 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 201402: 37380794.6073 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 201403: 40921026.0886 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 201404: 41876737.732 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 201405: 39327921.5468 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 201406: 37678639.006 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 201407: 38422128.0363 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 201408: 38191428.8646 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 201409: 37220679.5844 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 201410: 39177360.4335 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 201411: 38277474.0478 TONS
+Reduction in CO2 Emission for 107 Electric Miles in MONTH 201412: 41264037.1203 TONS
+
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 201401: 46958242.9321 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 201402: 43520707.7815 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 201403: 48426559.9985 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 201404: 49679234.7358 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 201405: 47033625.5575 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 201406: 44450606.2877 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 201407: 45478342.1558 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 201408: 45698247.9262 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 201409: 42904126.5041 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 201410: 45750215.356 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 201411: 45403636.9178 TONS
+Reduction in CO2 Emission for 208 Electric Miles in MONTH 201412: 48199276.6309 TONS
+
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 201401: 48878932.6994 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 201402: 45059953.596 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 201403: 50684882.3935 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 201404: 52020772.4211 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 201405: 48940904.9188 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 201406: 46436032.0226 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 201407: 47368648.7355 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 201408: 47816595.6267 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 201409: 44765873.177 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 201410: 47751579.7742 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 201411: 47633101.644 TONS
+Reduction in CO2 Emission for 270 Electric Miles in MONTH 201412: 50066705.1424 TONS
+
